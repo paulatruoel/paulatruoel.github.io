@@ -22,7 +22,7 @@ a:hover {
     color:   rgba(0, 105, 62, .3)}
 
 td,th {
-    border-bottom: 0; 
+    border-bottom: 0;
 }
 
 /* .container (960px) set in skeleton.css with media break options */
@@ -61,12 +61,12 @@ img.rounded-corners{
 
 .toprightname {
   position: absolute;
-  top: 30px;
-  right: 30px;
+  top: 20px;
+  right: 20px;
   font-family: Times New Roman, serif;
-  font-size:140%;
+  font-size:100%;
   font-weight: 500;
-  letter-spacing: 1px; 
+  letter-spacing: 1px;
 }
 
 .toprightcredentials {
@@ -204,14 +204,14 @@ hr.b15 {
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
 }
- 
+
 .bgcolor-green{
-    background-color: rgba(141, 169, 150, 1); 
+    background-color: rgba(141, 169, 150, 1);
     border-radius: 10px;
     padding: 10px 10px 10px 10px;
 }
- 
- 
+
+
 .bgcolor-pale-blue{
     background-color: rgba(190, 229, 235, 1); /* bootstrap info #c3e6cb; */
     border-radius: 10px;
@@ -253,7 +253,7 @@ hr.b15 {
     color: rgba(190, 229, 235, 1); /* bootstrap info #c3e6cb; */
     font-weight: bold;
 }
- 
+
 .color-yellow{
     color:  rgba(255, 238, 186, 1)/* bootstrap warning #ffeeba; */
     font-weight: bold;
